@@ -1,0 +1,15 @@
+# Accel
+accelBiasSigma: 0.0008
+accelSfSigma: 1500
+accelG2Sigma: 0.0001
+vrw: 4.247366e-05
+accelCorrelationTime: 3600
+accelBiasDriftSigma: 0.0007
+
+# Gyro
+gyroBiasSigma: 7.27220521664e-05
+gyroSfSigma: 200
+gyroG2Sigma: 4.84813681109536e-06
+arw: 1.1635528346628863e-05
+gyroCorrelationTime: 3600
+gyroBiasDriftSigma: 1.4544410433286078e-06
